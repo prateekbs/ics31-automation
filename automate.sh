@@ -1,4 +1,4 @@
-rm -rf Lab1
-unzip -qq Lab\ 1.zip -d Lab1
+rm -rf Lab2
+unzip -qq Lab\ 2.zip -d Lab2
 python automate.py
 sh automate_python.sh
